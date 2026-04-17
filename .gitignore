@@ -1,0 +1,13 @@
+.vscode/
+bin/
+include/
+lib/
+__pycache__/
+share/
+
+lib64
+pyvenv.cfg
+
+*.csv
+*.ods
+
